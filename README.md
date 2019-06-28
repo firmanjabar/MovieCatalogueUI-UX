@@ -2,7 +2,7 @@
 Aplikasi movie catalogue UI/UX adalah submission kedua dari kelas Menjadi Android Developer Expert (MADE) [Dicoding.com](http://https://www.dicoding.com/academies/14).
 
 ## DEMO
-<iframe src="https://giphy.com/embed/ekMvHAJjLpO8oEL02V" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/demo-androidapp-firman-ekMvHAJjLpO8oEL02V">via GIPHY</a></p>
+![demo.gif](https://media.giphy.com/media/ekMvHAJjLpO8oEL02V/giphy.gif)
 
 ### English
 <img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/65892449_2626902070677604_4948566038896705536_n.jpg?_nc_cat=100&_nc_oc=AQlEigd4xVMRkToM6Ms10xJIZc6wuD_26bz1ZJEdKZd3TFsA_l0scwaLxYcyqzW5WlI&_nc_ht=scontent-sin6-2.xx&oh=f2b8e954b45820947899001c176ad4d1&oe=5DB91F14" width="270" height="480" />
