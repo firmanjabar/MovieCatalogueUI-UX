@@ -46,9 +46,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         Movie movies = getmData().get(i);
         myViewHolder.tvTitle.setText(movies.getTitle());
         myViewHolder.tvYear.setText(movies.getYear());
-//        myViewHolder.tvDesc.setText(movies.getDescription());
-//        myViewHolder.tvDirect.setText(movies.getDirector());
-//        myViewHolder.tvActor.setText(movies.getActor());
         myViewHolder.imgBD.setImageResource(movies.getImgBD());
         Glide
                 .with(mContext)
@@ -57,8 +54,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
                 .placeholder(R.mipmap.ic_launcher)
                 .error(R.mipmap.ic_launcher)
                 .into(myViewHolder.imgBD);
-//        myViewHolder.imgActor.setImageResource(movies.getImgActor());
-//        myViewHolder.imgBD.setImageResource(movies.getImgBD());
     }
 
     @Override
@@ -68,17 +63,15 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
     public class MyViewHolder extends RecyclerView.ViewHolder{
 
-        TextView tvTitle, tvYear, tvDesc, tvDirect, tvActor;
-        ImageView imgPoster, imgActor, imgBD;
+        TextView tvTitle, tvYear;
+        ImageView imgBD;
 
         public MyViewHolder(View view){
             super(view);
 
-            tvTitle = (TextView) itemView.findViewById(R.id.title);
-            tvYear = (TextView) itemView.findViewById(R.id.year);
-//            tvDirect = (TextView) itemView.findViewById(R.id.direct);
-//            tvDesc = (TextView) itemView.findViewById(R.id.description);
-            imgBD = (ImageView) itemView.findViewById(R.id.img_bd);
+            tvTitle = itemView.findViewById(R.id.title);
+            tvYear = itemView.findViewById(R.id.year);
+            imgBD = itemView.findViewById(R.id.img_bd);
 
             itemView.setOnClickListener(new View.OnClickListener() {
                 @Override
