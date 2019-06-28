@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_title">Judul Film</string>
+    <string name="movie_desc">Lorem ipsum</string>
+    <string name="setting">Pengaturan</string>
+    <string name="backdrop">Gambar Backdrop</string>
+    <string name="poster">Gambar Poster</string>
+    <string name="year">Rilis</string>
+    <string name="director">Director</string>
+    <string name="overview">Sinopsis</string>
+    <string name="description">Lorem ipsum lorem lorem ipsum dolo salam hia kurikutsa lorem lorem ipsum dolo salam hia kurikutsa lorem lorem ipsum dolo salam hia kurikutsa lorem lorem ipsum dolo salam hia kurikutsa</string>
+    <string name="starting">Pemeran</string>
+    <string name="nameActor">Nama Aktor</string>
+
+    <!-- Movies -->
+    <string-array name="data_title_movies">
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Men in Black: International</item>
+        <item>Alita: Battle Angel</item>
+        <item>Toy Story 4</item>
+        <item>Pokémon Detective Pikachu</item>
+        <item>Mortal Engines</item>
+        <item>Aladdin</item>
+        <item>Dark Phoenix</item>
+        <item>Godzilla: King of the Monsters</item>
+        <item>The Darkest Mind</item>
+    </string-array>
+
+    <string-array name="data_year_movies">
+        <item>14 Desember 2018</item>
+        <item>14 Juni 2019</item>
+        <item>14 Juni 2019</item>
+        <item>14 Februari 2019</item>
+        <item>21 Juni 2019</item>
+        <item>10 Mei 2019</item>
+        <item>14 Desember 2018</item>
+        <item>24 Mei 2019</item>
+        <item>7 Juni 2019</item>
+        <item>31 Mei 2019</item>
+        <item>2 Agustus 2018</item>
+    </string-array>
+
+    <string-array name="data_description_movies">
+        <item> Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Saat Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seluruh Spider-Verse diangkut ke dimensi ini. </item>
+        <item> The Men in Black selalu melindungi Bumi dari sampah alam semesta. Dalam petualangan baru ini, mereka menangani ancaman terbesar, paling global hingga saat ini: tikus dalam organisasi Men in Black. </item>
+        <item> Ketika Alita terbangun tanpa ingatan siapa dia di dunia masa depan yang tidak dia kenal, dia dibawa oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat di cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan masa lalu yang luar biasa. </item>
+        <item> Woody selalu yakin tentang tempatnya di dunia dan bahwa prioritasnya adalah merawat anaknya, baik itu Andy atau Bonnie. Tetapi ketika Bonnie menambahkan mainan baru yang enggan disebut "Forky" ke kamarnya, petualangan perjalanan bersama teman-teman lama dan baru akan menunjukkan kepada Woody seberapa besar dunia untuk sebuah mainan. </item>
+        <item> Di dunia di mana orang mengumpulkan monster ukuran saku (Pokémon) untuk bertempur, seorang bocah laki-laki menemukan monster yang cerdas yang berusaha menjadi detektif. </item>
+        <item> Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy mengalami perjumpaan tak terduga dengan seorang wanita muda misterius dari daerah terlantar yang akan mengubah jalan hidupnya selamanya. </item>
+        <item> Seorang anak jalanan yang baik hati bernama Aladdin memulai petualangan ajaib setelah menemukan lampu yang melepaskan jin yang membingungkan sementara Wazir Agung yang haus kekuasaan bersaing untuk lampu yang sama yang memiliki kekuatan untuk membuat harapan terdalam mereka menjadi kenyataan. </item >
+        <item> X-Men menghadapi musuh mereka yang paling tangguh dan kuat ketika salah satu dari mereka, Jean Gray, mulai lepas kendali. Selama misi penyelamatan di luar angkasa, Jean hampir terbunuh ketika dia dihantam oleh kekuatan kosmik misterius. Begitu dia kembali ke rumah, kekuatan ini tidak hanya membuatnya jauh lebih kuat, tetapi jauh lebih tidak stabil. X-Men sekarang harus bersatu untuk menyelamatkan jiwanya dan melawan alien yang ingin menggunakan kemampuan baru Gray untuk memerintah galaksi. </item>
+        <item> Kisah baru ini mengikuti upaya heroik agensi crypto-zoological Monarch ketika para anggotanya berhadapan dengan sekelompok monster seukuran dewa, termasuk Godzilla yang perkasa, yang bertabrakan dengan Mothra, Rodan, dan musuh bebuyutan utamanya, ketiganya Raja Ghidorah yang dipimpin. Ketika spesies super kuno ini — yang dianggap hanya mitos belaka — bangkit kembali, mereka semua bersaing untuk memperoleh supremasi, membuat keberadaan manusia sangat tergantung dalam keseimbangan. </item>
+        <item> Setelah penyakit membunuh 98% anak-anak Amerika, 2% yang selamat mengembangkan kekuatan super dan ditempatkan di kamp-kamp interniran. Seorang gadis berusia 16 tahun melarikan diri dari kemahnya dan bergabung dengan sekelompok remaja lain yang melarikan diri dari pemerintah. </item>
+    </string-array>
+
+    <string-array name="data_director_movies">
+        <item>Rodney Rothman</item>
+        <item>F. Gary Gray</item>
+        <item>Robert Rodriguez</item>
+        <item>Josh Cooley</item>
+        <item>Rob Letterman</item>
+        <item>Christian Rivers</item>
+        <item>Guy Ritchie</item>
+        <item>Simon Kinberg</item>
+        <item>Michael Dougherty</item>
+        <item>Jennifer Yuh Nelson</item>
+    </string-array>
+
+    <string-array name="data_actor_movies">
+        <item>Shameik Moore</item>
+        <item>Chris Hemsworth</item>
+        <item>Rosa Salazar</item>
+        <item>Tom Hanks</item>
+        <item>Ryan Reynolds</item>
+        <item>Hera Hilmar</item>
+        <item>Mena Massoud</item>
+        <item>Sophie Turner</item>
+        <item>Kyle Chandler</item>
+        <item>Amandla Stenberg</item>
+    </string-array>
+
+    <array name="data_poster_movies">
+        <item>@drawable/spiderman</item>
+        <item>@drawable/mib</item>
+        <item>@drawable/alita</item>
+        <item>@drawable/ts</item>
+        <item>@drawable/pikachu</item>
+        <item>@drawable/mortal_engine</item>
+        <item>@drawable/aladdin</item>
+        <item>@drawable/dpx</item>
+        <item>@drawable/godzilla</item>
+        <item>@drawable/tdm</item>
+    </array>
+
+    <string-array name="data_imgactor_movies">
+        <item>@drawable/act_spiderman</item>
+        <item>@drawable/act_mib</item>
+        <item>@drawable/act_alita</item>
+        <item>@drawable/act_toy</item>
+        <item>@drawable/act_pika</item>
+        <item>@drawable/act_mort</item>
+        <item>@drawable/act_ala</item>
+        <item>@drawable/act_dark</item>
+        <item>@drawable/act_godz</item>
+        <item>@drawable/act_mind</item>
+    </string-array>
+
+    <string-array name="data_bd_movies">
+        <item>@drawable/bd_spiderman</item>
+        <item>@drawable/bd_mib</item>
+        <item>@drawable/bd_alita</item>
+        <item>@drawable/bd_toy</item>
+        <item>@drawable/bd_pika</item>
+        <item>@drawable/bd_mort</item>
+        <item>@drawable/bd_ala</item>
+        <item>@drawable/bd_dark</item>
+        <item>@drawable/bd_godz</item>
+        <item>@drawable/bd_mind</item>
+    </string-array>
+
+    <!-- TV Series -->
+    <string-array name="data_title_series">
+        <item>My Brilliant Friend</item>
+        <item>Game of Thrones</item>
+        <item>Stranger Things</item>
+        <item>Black Mirror</item>
+        <item>Dark</item>
+        <item>Love, Death &amp; Robots</item>
+        <item>The Umbrella Academy</item>
+        <item>Chilling Adventures of Sabrina</item>
+    </string-array>
+
+    <string-array name="data_year_series">
+        <item>6 Desember 2018</item>
+        <item>17 April 2011</item>
+        <item>15 Juli 2016</item>
+        <item>4 Desember 2011</item>
+        <item>1 Desember 2017</item>
+        <item>15 Maret 2019</item>
+        <item>29 Maret 2019</item>
+        <item>14 Juli 2018</item>
+    </string-array>
+
+    <string-array name="data_description_series">
+        <item> Ketika teman paling penting dalam hidupnya tampaknya telah menghilang tanpa jejak, Elena Greco, seorang wanita yang sudah lanjut usia yang terbenam di sebuah rumah yang penuh buku, menyalakan komputernya dan mulai menulis kisah persahabatan mereka. </item>
+        <item> Tujuh keluarga bangsawan berjuang untuk menguasai tanah mitos Westeros. Gesekan antara rumah-rumah mengarah ke perang skala penuh. Semua sementara kejahatan yang sangat kuno terbangun di utara terjauh. Di tengah-tengah perang, perintah militer yang diabaikan, Night\'s Watch, adalah satu-satunya yang berdiri di antara ranah manusia dan kengerian es di luarnya. </item>
+        <item> Ketika seorang bocah lelaki menghilang, sebuah kota kecil mengungkap misteri yang melibatkan eksperimen rahasia, kekuatan gaib yang mengerikan, dan seorang gadis kecil yang aneh. </item>
+        <item> Pengerjaan ulang kontemporer Inggris di The Twilight Zone dengan cerita yang memanfaatkan kegelisahan kolektif tentang dunia modern kita.\n\nSelama sepuluh tahun terakhir, teknologi telah mengubah hampir setiap aspek kehidupan kita sebelum kita memiliki waktu untuk berhenti dan mempertanyakannya. Di setiap rumah; di setiap meja; di setiap telapak tangan - layar plasma; sebuah monitor; sebuah smartphone - cermin hitam dari keberadaan kami di abad ke-21. </item>
+        <item> Seorang anak yang hilang menyebabkan empat keluarga saling membantu untuk mendapatkan jawaban. Apa yang tidak dapat mereka bayangkan adalah bahwa misteri ini akan terhubung dengan banyak rahasia kota kecil yang tak terhitung banyaknya. </item>
+        <item> Makhluk yang menakutkan, kejutan jahat dan komedi kelam bertemu dalam antologi cerita animasi NSFW yang disajikan oleh Tim Miller dan David Fincher. </item>
+        <item> Keluarga superhero yang disfungsional berkumpul untuk memecahkan misteri kematian ayah mereka, ancaman kiamat, dan banyak lagi. </item>
+        <item> Saat ulang tahunnya yang ke-16 semakin dekat, Sabrina harus memilih antara dunia penyihir keluarganya dan dunia manusia dari teman-temannya. Berdasarkan komik Archie. </item>
+    </string-array>
+
+    <string-array name="data_director_series">
+        <item>Saverio Costanzo</item>
+        <item>David Benioff</item>
+        <item>Ross Duffer</item>
+        <item>Charlie Brooker</item>
+        <item>Baran bo Odar</item>
+        <item>Tim Miller</item>
+        <item>Steve Blackman</item>
+        <item>Roberto Aguirre-Sacasa</item>
+    </string-array>
+
+    <string-array name="data_actor_series">
+        <item>Gaia Girace</item>
+        <item>Emilia Clarke</item>
+        <item>Winona Ryder</item>
+        <item>Hannah John-Kamen</item>
+        <item>Maja Schöne</item>
+        <item>Mary Elizabeth Winstead</item>
+        <item>Ellen Page</item>
+        <item>Kiernan Shipka</item>
+    </string-array>
+
+    <string-array name="data_imgactor_series">
+        <item>@drawable/act_brill</item>
+        <item>@drawable/act_got</item>
+        <item>@drawable/act_st</item>
+        <item>@drawable/act_bm</item>
+        <item>@drawable/act_dark2</item>
+        <item>@drawable/act_l</item>
+        <item>@drawable/act_um</item>
+        <item>@drawable/act_ch</item>
+    </string-array>
+
+    <array name="data_poster_series">
+        <item>@drawable/pstr_brill</item>
+        <item>@drawable/pstr_got</item>
+        <item>@drawable/pstr_st</item>
+        <item>@drawable/pstr_bm</item>
+        <item>@drawable/pstr_dark2</item>
+        <item>@drawable/pstr_l</item>
+        <item>@drawable/pstr_um</item>
+        <item>@drawable/pstr_ch</item>
+    </array>
+
+    <string-array name="data_bd_series">
+        <item>@drawable/bd_brill</item>
+        <item>@drawable/bd_got</item>
+        <item>@drawable/bd_st</item>
+        <item>@drawable/bd_bm</item>
+        <item>@drawable/bd_dark2</item>
+        <item>@drawable/bd_l</item>
+        <item>@drawable/bd_um</item>
+        <item>@drawable/bd_ch</item>
+    </string-array>
+</resources>
